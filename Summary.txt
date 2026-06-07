@@ -1,0 +1,7 @@
+#Project Summary
+
+This project focused on performing Exploratory Data Analysis (EDA) on the Titanic dataset using Python. Various statistical techniques and visualization methods were used to understand the data and uncover meaningful insights.
+
+The analysis included data inspection, missing value detection, histogram analysis, boxplots, scatter plots, correlation heatmaps, and pairplots. Results showed that female passengers had higher survival rates, passenger class significantly affected survival chances, and fare values contained several outliers. The majority of passengers were between 20 and 40 years old.
+
+Overall, the EDA process helped identify important trends, relationships, and patterns within the dataset, providing a strong foundation for future predictive analytics and machine learning tasks.
